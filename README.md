@@ -1,6 +1,6 @@
 # scaling-journey
 
-A research framework for the practical tradeoff between self-hosting, GitHub, and GitLab for security research and small software projects.
+A research framework for the practical tradeoff between self-hosting, GitHub, and Git Lab for security research and small software projects.
 
 ## Research question
 
@@ -9,7 +9,7 @@ Does public visibility materially improve security outcomes when a project is un
 This framework compares:
 - self-hosted repositories
 - GitHub public repositories
-- GitLab public repositories
+- Git Lab public repositories
 
 It uses the “many eyes” argument — especially Linus’s Law — as a test case, but it does not treat visibility as a guarantee. In practice, the real variables are:
 - funding
@@ -17,7 +17,7 @@ It uses the “many eyes” argument — especially Linus’s Law — as a test 
 - visibility
 - active review
 ![](/screenshot.jpeg)
-## Cenral claim
+## Central claim
 
 Public visibility is not security by itself.
 
@@ -71,7 +71,7 @@ This framework compares three operating modes:
 
 - private or self-hosted repositories
 - public GitHub repositories
-- public GitLab repositories
+- public Git Lab repositories
 
 The question is not “which one is universally best?”
 The question is:

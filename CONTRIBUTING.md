@@ -19,10 +19,10 @@ This is a research artifact, not a marketing narrative.
 
 ## How to contribute
 
-1. add a new case study in [CASES.md](CASES.md)
-2. add source material in [DATA.md](DATA.md)
-3. challenge an assumption in [RESEARCH.md](RESEARCH.md)
-4. document a missing fact in [GAPS.md](GAPS.md)
+1. add a new case study in  CASES.md
+2. add source material in  DATA.md
+3. challenge an assumption in  RESEARCH.md
+4. document a missing fact in  GAPS.md
 
 ## Review standard
 

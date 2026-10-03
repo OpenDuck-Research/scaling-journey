@@ -1,4 +1,4 @@
-# Verified sources
+# sources
 
 This section contains only sources that support the framework’s claims. It is intentionally conservative.
 
@@ -46,10 +46,7 @@ These audits show that expert, funded review can uncover important vulnerabiliti
 ## Tor Project
 
 - Security advisories:
-- Link: https://www.torproject.org/about/reports/security-advisories/
-
-- Annual reports:
-- Link: https://www.torproject.org/about/annual-reports/
+- Check Out https://www.torproject.org/about/reports/
 
 Tor is a strong example of a project that balances self-hosting and public visibility while relying on institutional support and professional review.
 
@@ -58,24 +55,14 @@ Tor is a strong example of a project that balances self-hosting and public visib
 ## Linux kernel
 
 - Linux Foundation research:
-- Link: https://www.linuxfoundation.org/research/the-linux-kernel-report
+- Link: https://www.linuxfoundation.org/
 
 - Kernel security process:
 - Link: https://www.kernel.org/doc/html/latest/process/security-bugs.html
 
-Linux is an important example of large-scale, funded review leading to strong outcomes. It is not evidence that one platform is universally superior.
+Linux is an important example of large-scale, funded review leading to strong outcomes.
 
 ---
-
-## GitHub and GitLab platform context
-
-GitHub:
-- https://github.blog/press/octoverse-2023/
-
-GitLab:
-- https://about.gitlab.com/solutions/security/
-
-These sources describe platform scale and tooling. They do not prove that platform choice alone determines security outcomes.
 
 ---
 
@@ -87,5 +74,4 @@ The strongest evidence supports:
 - funding is a major constraint
 - self-hosting does not automatically create security
 - public hosting is not automatically insecure
-
-The weakest claim is that one platform is universally “the secure choice.”
+- There is no one platform That is universally “the secure choice.” 

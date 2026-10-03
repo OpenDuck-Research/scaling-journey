@@ -130,6 +130,6 @@ Visibility is not security. Active review is.
 
 ## Limits
 
-This is a research framework, not a universal law.
+This is a research framework, not a universal law to follow choosing is Entirely  in the Models or org Needs.
 
 The main limitation is that platform-specific security outcomes are under-studied. The evidence is stronger on the role of funding and review capacity than on the superiority of any single hosting model.

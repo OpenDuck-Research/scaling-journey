@@ -43,7 +43,7 @@ Tor’s security posture is not explained by self-hosting alone. It is explained
 - public visibility through mirrors
 
 ### Lesson
-Self-hosting can be safe when the project has the resources to maintain it correctly. Self-hosting is not automatically safer or superior.
+Self-hosting can be safe when the project has the resources to maintain it correctly. Self-hosting is not automatically safer.
 
 ---
 
@@ -106,6 +106,6 @@ The recurring pattern is not platform superiority. It is the combination of:
 
 ---
 
-## Main insight
+## The Main insight
 
 The strongest predictor of a project’s security outcome is not whether it is self-hosted or public. It is whether the project has enough resources and expertise to review, maintain, and respond to issues.

@@ -16,9 +16,7 @@ It uses the “many eyes” argument — especially Linus’s Law — as a test 
 - expertise
 - visibility
 - active review
----
-- ![](/screenshot.jpeg
-)
+- ![](/screenshot.jpeg)
 ## Cenral claim
 
 Public visibility is not security by itself.

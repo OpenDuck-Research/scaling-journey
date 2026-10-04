@@ -67,4 +67,4 @@ This framework is strongest on the following points:
 - funding is the real gating variable
 - unfunded private code can be effectively invisible to both attackers and defenders
 
-This framework is weakest on exact statistical claims about platform superiority. Those remain open research questions.
+This framework is weakest on exact statistical claims about platforms. Those remain open research questions.

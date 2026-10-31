@@ -73,7 +73,7 @@ This framework compares three operating modes:
 - public GitHub repositories
 - public Git Lab repositories
 
-The question is not “which one is universally best?”
+The question is not “which one is universally best or correct answer?”
 The question is:
 - when does visibility improve outcomes?
 - when does isolation become a liability?
